@@ -1,0 +1,24 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+}
+
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid rgb(19, 139, 194);
+}
+
+td{
+    width: calc(100%/5);
+}
+
+#response{
+    color: red;
+    font-weight: bold;
+    font-size: 18px;
+}
