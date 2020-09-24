@@ -1,0 +1,46 @@
+head{
+	 background-color: white;
+}
+
+body {
+  background-color: snow;
+  top-margin: 20px;
+  margin-left: 40px;
+  bottom-margin: 20px;
+  margin-right: 40px;
+
+}
+
+h5{
+	font-style: normal;
+	font-size: 10px;
+	color: palegreen;
+}
+
+#menu {	
+	color: seagreen;
+	font-size: 30px;
+	background-color: mediumspringgreen;
+}
+
+div {
+  background-color: palegreen;
+  
+}
+
+h2{
+	font-style: normal;
+	color: mediumseagreen;
+
+}
+
+a{
+	color: seagreen;
+	text-decoration: none;
+}
+
+h1{
+	color: seagreen;
+
+}
+
